@@ -59,6 +59,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   - [RESTful API](#restful-api)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Search](#search)
+  - [SEO](#seo)
   - [Site Monitoring](#site-monitoring)
   - [Starter Apps](#starter-apps)
   - [Tagging](#tagging)
@@ -524,6 +525,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for Ruby 
   * [PgSearch](https://github.com/Casecommons/pg_search) - PostgreSQL's full text search
   * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
   * [Sunspot](https://github.com/sunspot/sunspot) - Solr-powered search for Ruby objects
+
+## SEO
+
+*Libraries for Search Engine Optimization.*
+
+  * [RailsFriendlyURLs](https://github.com/calonso/rails_friendly_urls) - Rails Gem to configure absolutely any url within your project into a SEO-Friendly one.
 
 ## Site Monitoring
 
